@@ -17,4 +17,4 @@ Sou um profissional apaixonado por tecnologia, especializado no desenvolvimento 
 Se quiser trocar experiências ou tiver dúvidas sobre os cursos e certificações, sinta-se à vontade para entrar em contato! 🚀
 
 
-### 56 cursos concluídos
+### ***56*** cursos concluídos.
