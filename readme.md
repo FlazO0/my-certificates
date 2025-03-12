@@ -2,6 +2,7 @@
 
 Aqui estão reunidos meus certificados adquiridos ao longo da minha jornada profissional e acadêmica. Meu objetivo é demonstrar minha evolução contínua e o compromisso com a aprendizagem constante.
 
+## 56 cursos concluídos
 
 ## 🚀 **Sobre Mim**
 
