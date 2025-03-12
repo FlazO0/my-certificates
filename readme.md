@@ -2,8 +2,6 @@
 
 Aqui estão reunidos meus certificados adquiridos ao longo da minha jornada profissional e acadêmica. Meu objetivo é demonstrar minha evolução contínua e o compromisso com a aprendizagem constante.
 
-## 56 cursos concluídos
-
 ## 🚀 **Sobre Mim**
 
 Sou um profissional apaixonado por tecnologia, especializado no desenvolvimento de soluções inovadoras e segurança da informação. Busco sempre me aprimorar, explorando novas tecnologias e tendências do mercado.
@@ -17,3 +15,6 @@ Sou um profissional apaixonado por tecnologia, especializado no desenvolvimento 
 🌐 **LinkedIn**: [linkedin.com/in/flazo0](https://linkedin.com/in/flazo0)
 
 Se quiser trocar experiências ou tiver dúvidas sobre os cursos e certificações, sinta-se à vontade para entrar em contato! 🚀
+
+
+### 56 cursos concluídos
